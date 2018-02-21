@@ -3,6 +3,7 @@
 contractApplication REST API 
 
 RESTful API Development
+
 a. Minimal Contract object attributes:
 i. Contract Id ii. Name
 iii. Business Number
